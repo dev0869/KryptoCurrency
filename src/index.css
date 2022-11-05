@@ -1,0 +1,353 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: none;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  margin: 0;
+
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+
+}
+.header{
+  box-shadow: 2px 2px 3px 1px grey;
+
+  background-color: #191934;
+}
+
+.css-63dmq5-MuiStack-root {
+  display: -webkit-box;
+  margin-top: 0%;}
+
+.link {
+  color: white;
+  text-decoration: none;
+
+  font-size: 1.8rem;
+}
+
+
+.cryptoImg {
+  width: 56px;
+  background-size: cover;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 25px;
+
+}
+
+.logos {
+  border-radius: 50%;
+  width: 45px;
+
+}
+
+.content h3 {
+  padding-top: 50px;
+
+}
+
+.content p {
+  padding-top: 10px;
+  color:#002358;
+
+}
+
+strong {
+  color: rgb(28, 31, 211);
+}
+
+.Span {
+  
+  font-size: 28px;
+  position: relative;
+  top: 4px;
+  left: 5px;
+}
+
+
+.loader {
+  height: 81vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.h1 {
+  margin-bottom: 0;
+}
+
+.h3 {
+  font-weight: bold;
+  margin-bottom: 0.1em;
+  color: #191934;
+
+}
+.sup{
+  background-attachment: fixed;
+  margin-top: 50px;
+ 
+
+
+
+
+}
+
+.p {
+  margin-left: 0.2em;
+  margin-bottom: 0;
+}
+
+.home_h1 {
+  font-size: 3.8rem;
+  font-weight: bold;
+  line-height: 45px;
+}
+
+.home_p {
+
+  font-size: 1.8rem;
+  padding-top: 10px;
+  color: #002358;
+
+}
+
+.home {
+  width: 350px;
+}
+
+.home_img {
+  width: 100%;
+}
+
+.home_butt {
+border-radius: 10px;
+  font-size: 16px;
+  border: 0px solid ;
+transition: 0.4s;
+  margin-top: 5px;
+  color: white;
+  font-weight: bold;
+  padding: 10px 25px 13px 25px;
+  background: #4CC6A5;
+  box-shadow: 2px 2px 7px #a99898;
+}
+
+.home_butt:hover{
+  color: white;
+  letter-spacing: 1.5px;
+  box-shadow: 2px 2px 4px #978b8b;
+}
+.news-svg{
+  width:20px;
+  margin-top:5px;
+}
+.svg{
+  margin:-4px
+}
+.svg2{
+  position: relative;
+  top: -2px;
+}
+.svg3{
+  width: 35px;
+}
+.svg4{
+  position: relative;
+  top: 6px;
+}
+.menu{
+  font-family: cursive;
+  font-weight: bold;
+  position: relative;
+  top: 1px;
+
+}
+
+.logo{
+  font-family: cursive;
+}
+.svg6{ width: 10px;
+
+}
+.red{
+  color:red
+}
+.blue{
+  color: #5EBA7D;
+}
+
+.nav2 {
+  font-size: 10px;
+  color:#F65603;
+  background-color: #0E1B62;
+gap: 16px;
+overflow-x: scroll;
+border-bottom-right-radius: 67px;
+border-bottom-left-radius: 67px;
+
+  color: white;
+  
+}
+.nav2::-webkit-scrollbar{
+  width: 0;
+}
+.nav22 {
+  font-size: 19px;
+  color:#F65603;
+  background-color: #0E1B62;
+  border-radius: 50px;
+
+  color: white;
+  
+}
+.bar{
+  background-color: white;
+  border-radius: 15px;
+}
+.DESIGN{
+color: white;
+
+  background-color: #2E0983;
+}
+.carding{
+  color: blue;
+  width: 600px;
+}
+.css-46bh2p-MuiCardContent-root {
+   padding: 0px
+
+}
+input{
+  width: 100%;
+  text-align: center;
+  color: #191934;
+  font-weight: bold;
+  padding: 10px;
+  border:  1px solid gray;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px gray;
+
+}
+input:focus{
+  box-shadow: 2px 2px 2px gray;
+  border: 1px solid gray;
+  outline: none;
+
+}
+.hamburgert{
+ 
+  stroke: #002358;
+  height: 15px;
+  width: 17px;
+  position: relative;
+  top: 3px;
+}
+.Seerch{
+  padding: 12px 5%;
+}
+.eff{
+  box-shadow: 2px 2px 2px blue;
+}
+.DESIGNN{
+  background-color: #2E0983;
+  transition: 0.4S;
+  border: 2PX solid rgb(148, 33, 255);
+  border-radius: 25PX;
+  color: white;
+}
+.DESIGNN:hover{
+  transform: scale(1.2);
+  box-shadow: 2PX 2PX  2PX gray;
+ 
+
+}
+.c1{
+  width: 500px;
+}
+.hambug{
+  display: none;
+  width: 32px;
+  height: 32px;
+}
+.hambug2{
+  stroke: #002358;
+    height: 27px;
+    margin-left: -4px;
+    margin-top: 1px;
+    width: 25px;
+
+}
+@media only screen and (max-width: 900px){
+
+ 
+  .hambug{
+    display: block;
+  }
+
+  @media only screen and (max-width: 500px){
+    .home_h1 {
+      font-size: 3.5rem;
+    
+    }
+    /* .sup{
+      background-attachment: fixed;
+      margin-top: 50px;
+    
+    } */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.link{
+  font-size: 18px;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.menu{
+
+  font-weight: bold;
+  width: 100%;
+  background: #202040;
+
+  justify-content: center;
+  align-items: center;
+  height: 6vh;
+  position: absolute;
+  top: 75px;
+ box-shadow:  0px 1px 3px 1px grey;
+
+  /* padding: 25%; */
+  left: 0%;
+}
+
+}
